@@ -7,10 +7,23 @@ ThinkPad X1 Extreme (2nd Gen) Platform
 - Intel Wi-Fi 6 AX200, Wi-Fi 2x2 802.11ax + Bluetooth 5.0 -> no support  off
 - IR camera and HD720p camera with ThinkShutter camera privacy, fixed focus -> works
  
- v1.0
+ v1.0 Mojave
  
+ What is working :
+ 
+ - Battery status
+ - Sleep/Wake
+ - UHD 630
+ - Audio
+ - Brightness control
+ - iColud
+ - Facetime
+ - iMessage
  
  To fix :
  - HDMI output
  - Add proprer display processor in settings
+ 
+ 
+ Hardware to replace : Wifi/BT 
  
